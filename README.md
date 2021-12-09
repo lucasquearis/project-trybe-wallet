@@ -1,6 +1,10 @@
 # Projeto Trybe Wallet
 
-Esse projeto utilizo o Redux, uma ferramente de manipulação de estado global, um framework muito útil para evitar a famosa Prop Hell.\
+Esse projeto utilizo o Redux, uma ferramente de manipulação de estado global, um framework muito útil para evitar a famosa Prop Hell.
+
+Essa aplicação é uma carteira, simulando uma tela de login "fictícia" com um formulário totalmente controlado.
+
+Faço requisições em um endpoint de conversão de modeas em tempo real.
 [Trybe](https://www.betrybe.com/):rocket:
 
 ## Conteúdos práticados
